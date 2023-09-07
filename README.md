@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gleison Ganga 
-- 👀 I’m interested in Html,CSS, javascript, React (native tbm)
+- 👀 I’m interested in python
 - 🌱 I’m currently learning front -end 
 - 💞 Papai de 3
 - 📫 How to reach me ...
